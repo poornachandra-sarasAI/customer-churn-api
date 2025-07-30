@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+scikit-learn
+joblib
+flask
+logging
+datetime
+json
+argparse
