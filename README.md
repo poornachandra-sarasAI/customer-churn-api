@@ -185,8 +185,9 @@ The system uses:
 - Document any API changes in a versioned API specification
 
 ## License
+MIT License
 
-
+Copyright (c) 2025 R Mohan Poornachandra
 
 ## Contributors
 
