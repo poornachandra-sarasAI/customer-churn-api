@@ -1,10 +1,10 @@
 pandas
 numpy
 requests
-scikit-learn==1.5.2
+scikit-learn
 joblib
 flask
 logging
 datetime
-json
 argparse
+xgboost
